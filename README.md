@@ -1,6 +1,6 @@
 # CAR LOGO PROJECTOR HACK
 
-<img width="2185" height="2230" alt="Projection" src="https://github.com/user-attachments/assets/2c6db522-12d2-4b68-862e-3dfc552b38f9" />
+<img width="1800" height="1837" alt="Projection" src="https://github.com/user-attachments/assets/2c6db522-12d2-4b68-862e-3dfc552b38f9" />
 
 ## From sketchy Hall-effect sensor to robust mechanical switch
 There are very cool and cheap aftermarket car logo projectors which are installed on cars door. They give awesome image, but their activation mechanism can be a nightmare because they rely on a tiny magnet taped to the door sill, meant to trigger a Hall-effect sensor on the device.
